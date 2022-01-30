@@ -1,0 +1,12 @@
+[
+    {
+        "membro_id": 1234567890,
+        "razao": [
+            "Para iniciar o loop"
+        ],
+        "moderador_id": [
+            1234567890
+        ],
+        "conta": 1
+    }
+]
